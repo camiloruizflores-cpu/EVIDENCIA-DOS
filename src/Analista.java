@@ -1,6 +1,7 @@
 public class Analista{
     private String codAnalista;
     private String nombreAnalista;
+    private string celAnalista;
 
     // Constructor sin parámetros de la clase Analista
     public Analista() {
